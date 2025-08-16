@@ -39,5 +39,4 @@ for x in range(150, wid, 250):
         cv2.waitKey(100)  # Special version of waitKey only waits 100 millisecs before going on
 
 # Add a permanent wait at the end so we can see the final image as long as we like
-cv2.imwrite("redCircles.jpg", myIm)
 cv2.waitKey()
