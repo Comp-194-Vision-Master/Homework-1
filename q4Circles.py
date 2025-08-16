@@ -16,12 +16,14 @@ Author: <your name here>
 import cv2
 import random
 
-# TODO: Complete the definition of the function drawCircles (remove the placeholder 'pass' when you do)
 
 def drawCircles(img, numCircs):
     # TODO: Add descriptive comment here
+    # Replace 'pass' below with your definition of this function, based on pseudocode from question 3
     pass
 
+
 # Main script
+
 # TODO: Write main script to read in a background image, of your choice, and then use the input function to get
 # TODO: the number of circles from the user, then call drawCircles. After drawCircles finishes, it should display the final image
