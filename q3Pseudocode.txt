@@ -1,0 +1,2 @@
+Put your pseudocode below this. Your solution should have roughly 7-10 steps, plus any comments you add to
+clarify your work.
